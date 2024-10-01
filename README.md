@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DNR1124
 - 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on nagdamarla@gmail.com
 
